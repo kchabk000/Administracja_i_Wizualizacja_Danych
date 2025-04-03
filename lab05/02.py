@@ -5,3 +5,4 @@ series2 = pd.Series(slownik)
 series2.name = "Owoce"
 series2.index.name = "Produkt"
 
+print(series2)
