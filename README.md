@@ -1,3 +1,4 @@
+# 📊Repozytorium zadań z przedmiotu Administracja i Wizualizacja Danych
 Repozytorium zawiera zbiór implementacji i rozwiązań stworzonych w ramach przedmiotu **Administracja i Wizualizacja Danych**. 
 Projekt skupia się na wykorzystaniu ekosystemu Pythona do przetwarzania danych, modelowania matematycznego oraz profesjonalnej prezentacji wyników w formie graficznej.
 
